@@ -18,6 +18,12 @@ The proposed environment uses a high-speed fiber backbone, departmental network 
 - Prioritize latency-sensitive applications using QoS
 - Improve network reliability and scalability
 
+## Network Topology
+
+The following topology illustrates the proposed enterprise network architecture, including redundant edge routing, firewall protection, a high-speed core layer, segmented building networks, and separate VLANs for business services.
+
+![Enterprise Secure Network Topology](network-topology.png)
+
 ## Network Design Highlights
 
 - 10 Gigabit Ethernet backbone
